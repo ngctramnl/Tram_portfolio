@@ -10,10 +10,14 @@
 - The data was downloaded and cleaned by Thomas Mock and Antoine Bichat for #TidyTuesday during the week of February 11th, 2020
 - Create exploratory plots
 - Explore the variance between the hotel stays of guests with/without children among months of the year
+
+  
 ![alt text](https://github.com/ngctramnl/Hotel_bookings/blob/main/Month.png)
 - July and August are the two months that have the largest proportion of children. This trend is consistent in both hotels.
+
 ![alt text](https://github.com/ngctramnl/Hotel_bookings/blob/main/Parking.png)
 - People who are with children are more likely to ask for parking space
+
 ![alt text](https://github.com/ngctramnl/Hotel_bookings/blob/main/Boxplot.png)
 - People with children are paying more for their stays
 
