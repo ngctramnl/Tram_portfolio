@@ -13,7 +13,7 @@
 
 - Dataset collected from a survey primarily conducted in India
 - Survey data was collected to measure technology usage patterns, perceived benefits, perceived risks, perceived barriers, likeliness to adopt, likeliness to recommend, etc.
-- Identify factors influencing technology adoptions and recommendation behaviours among consumer households
+- Identify key factors influencing technology adoptions and recommendation behaviours among consumer households
 - Build a multiple regression model
 
 
