@@ -3,7 +3,7 @@
 - Dataset of a departmental store with details of products from May 2020, a period marked by COVID-19
 - Visualize which products will be more profitable to invest in
 - Visualize patterns and trends of the product categories
-![](https://github.com/ngctramnl/Departmental_Store/blob/main/Dashboard%202.png)
+![alt text](https://github.com/ngctramnl/Departmental_Store/blob/main/Dashboard%202.png)
 
 # [Project 2: Hotel_bookings](https://github.com/ngctramnl/Hotel_bookings)
 - The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019
