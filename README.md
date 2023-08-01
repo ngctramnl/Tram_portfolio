@@ -6,8 +6,9 @@
 - The data was downloaded and cleaned by Thomas Mock and Antoine Bichat for #TidyTuesday during the week of February 11th, 2020
 - Create exploratory plots
 - Explore the variance between the hotel stays of guests with/without children among months of the year
-
-
+![](https://github.com/ngctramnl/Hotel_bookings/blob/main/Month.png)
+![](https://github.com/ngctramnl/Hotel_bookings/blob/main/Parking.png)
+![](https://github.com/ngctramnl/Hotel_bookings/blob/main/Boxplot.png)
 
 # [Project 2: Technology Perception](https://github.com/ngctramnl/TechnologyAdoption)
 
