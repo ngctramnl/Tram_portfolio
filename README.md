@@ -18,7 +18,6 @@
 - People with children are paying more for their stays
 
 # [Project 3: Technology Perception](https://github.com/ngctramnl/TechnologyAdoption)
-
 - Dataset collected from a survey primarily conducted in India
 - Survey data was collected to measure technology usage patterns, perceived benefits, perceived risks, perceived barriers, likeliness to adopt, likeliness to recommend, etc.
 - Identify key factors influencing technology adoptions and recommendation behaviours among consumer households
