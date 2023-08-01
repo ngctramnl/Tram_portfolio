@@ -19,7 +19,7 @@
 - People who are with children are more likely to ask for parking space
 
 ![alt text](https://github.com/ngctramnl/Hotel_bookings/blob/main/Boxplot.png)
-- People with children are paying more for their stays
+- People with children tend to spend more for their stays
 
 # [Project 3: Technology Perception](https://github.com/ngctramnl/TechnologyAdoption)
 - Dataset collected from a survey primarily conducted in India
