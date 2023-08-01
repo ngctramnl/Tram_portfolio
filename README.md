@@ -13,13 +13,13 @@
 
   
 ![alt text](https://github.com/ngctramnl/Hotel_bookings/blob/main/Month.png)
-- July and August are the two months that have the largest proportion of children. This trend is consistent in both hotels.
+- July and August are the two months that have the most with-children stays. This trend is consistent in both hotels.
 
 ![alt text](https://github.com/ngctramnl/Hotel_bookings/blob/main/Parking.png)
 - People who are with children are more likely to ask for parking space
 
 ![alt text](https://github.com/ngctramnl/Hotel_bookings/blob/main/Boxplot.png)
-- People with children tend to spend more for their stays
+- People with children tend to spend more on their stays
 
 # [Project 3: Technology Perception](https://github.com/ngctramnl/TechnologyAdoption)
 - Dataset collected from a survey primarily conducted in India
