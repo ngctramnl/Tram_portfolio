@@ -1,4 +1,4 @@
-# Business Analyst Portfolio
+# Data Analyst Portfolio
 # [Project 1: Departmental Store Visualization](https://github.com/ngctramnl/Departmental_Store)
 - Dataset of a departmental store with details of products from May 2020, a period marked by COVID-19
 - Visualize which products will be more profitable to invest in
