@@ -22,7 +22,7 @@
 - People with children tend to spend more on their stays
 
 # [Project 3: Technology Perception](https://github.com/ngctramnl/TechnologyAdoption)
-- Dataset collected from a survey primarily conducted in India
+- Dataset collected from a [survey](https://www.kaggle.com/datasets/mrcalvinwhite/technology-perception-survey) primarily conducted in India
 - Survey data was collected to measure technology usage patterns, perceived benefits, perceived risks, perceived barriers, likeliness to adopt, likeliness to recommend, etc.
 - Identify key factors influencing technology adoptions and recommendation behaviours among consumer households
 - Build a multiple regression model
