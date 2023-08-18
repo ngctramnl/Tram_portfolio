@@ -2,7 +2,7 @@
 
 ## [Project 1: Data_Cleaning](https://github.com/ngctramnl/Data_Cleaning) 
 ### About the dataset
-- Originally from [data_description](https://archive.ics.uci.edu/dataset/10/automobile)
+- Originally from [data_description](https://archive.ics.uci.edu/dataset/10/automobile). 203 records
 
 ### Data cleaning documentation
 - _DISTINCT_ query was run to confirm fuel_type does not have any unexpected values other than gas and diesel. No unexpected value was returned
