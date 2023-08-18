@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-
+> Skills: R, Tableau, SQL
 ## [Project 1: Data_Cleaning](https://github.com/ngctramnl/Data_Cleaning) 
 ### About the dataset
 - Originally from [data_description](https://archive.ics.uci.edu/dataset/10/automobile). 203 records
