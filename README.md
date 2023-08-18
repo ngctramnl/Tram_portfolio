@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+#  `Data Analyst Portfolio`
 > Skills: SQL, Tableau, R
 ## [Project 1: Data_Cleaning](https://github.com/ngctramnl/Data_Cleaning) 
 ### About the dataset
